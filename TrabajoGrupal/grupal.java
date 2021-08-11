@@ -21,7 +21,7 @@ public class grupal {
 		System.out.println("Ordenamiento Java");
 		System.out.println("El vector antes de ordenar " + Arrays.toString(A));
 
-		// aqui ordenamos el vector
+		// Aqui ordenamos el vector
 		Arrays.sort(A);
 		System.out.println("El vector despues de ordenar " + Arrays.toString(A));
 		shell(A);
